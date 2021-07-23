@@ -1,8 +1,8 @@
 #╔═════════════════════════════════╗
-#║      Author   : Dark_H4cker.                                                  ║
-#║      Github   : Tapie1152                                                     ║
-#║      Telegram  :https://t.me/joinchat/JHcalr5CCWM0OGE0                                                            ║
-#║      Tool Name : Bruteforce tool              #                               ║
+#║      Author   : Dark_H4cker.          ║
+#║      Github   : Tapie1152             ║
+#║      Telegram : @unusual_helper       ║
+#║      Tool Name: Bruteforce tool       ║
 #╚═════════════════════════════════╝
  
 import requests
