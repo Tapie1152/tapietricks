@@ -34,7 +34,7 @@ Note: Brute force attacks are computationally expensive and should always be use
 
 🚀 Features
 
-Tool 1 – [Name of the First Tool]
+Tool 1 – []
 
 Configurable target and input options
 
@@ -43,7 +43,7 @@ Wordlist support
 Execution logging
 
 
-Tool 2 – [Name of the Second Tool]
+Tool 2 – []
 
 Multi-threading support
 
